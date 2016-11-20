@@ -1,0 +1,10 @@
+*{margin: 0 ; padding: 0;}
+
+.container
+{
+  margin-top: 100px;
+
+  height: 400px;
+  width: 970px;
+ background-color: grey;
+}
